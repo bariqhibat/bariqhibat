@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-My name is Bariq Hibatullah. I am a penultimate engineering student in Nanyang Technological University, Singapore.
+My name is Bariq Nurlis. I am a fullstack developer who mainly works in Javascript, Python, and Golang. I'm currently studying in Singapore.
 
-<!-- - 🔭 I’m currently working on Network Virtualization & Security(NSX/IPSec) -->
-- 🌱 I’m currently learning microservices and k8s
-<!-- - 👯 I’m looking to collaborate on Networking and Security area -->
-- 💬 Ask me about anything in Web Development and Computer Networks
-- 📫 How to reach me: @bariqhibat
-- 😄 Pronouns: He/His
+- 🌱 I’m currently learning microservices, orchestration, and other exciting stuffs
+- 💬 Ask me about anything in web development
+- 📫 How to reach me: [@bariqhibat](https://twitter.com/bariqhibat)
